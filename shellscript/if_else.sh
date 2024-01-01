@@ -1,5 +1,5 @@
 #!/bin/bash 
-if [ 5 -eq 5 ]
+if [ $1 -eq 5 ]
 then 
 	echo "both the number are same"
 else
